@@ -3,4 +3,4 @@ pandas
 scikit_learn
 streamlit
 tensorflow
-tensorflow_intel
+
